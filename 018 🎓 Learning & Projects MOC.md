@@ -1,0 +1,3 @@
+- **Projects:** [[30Days-MyDFIR]], [[Day-01 MyDFIR]]
+- **TryHackMe Writeups:** [[THM - Intro to Detection Engineering]], [[THM - Malware Introductory]], [[THM - Splunk Basics - Did you SIEM]]
+- **Personal:** [[My Garden]]

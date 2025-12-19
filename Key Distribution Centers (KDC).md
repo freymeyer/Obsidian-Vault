@@ -1,0 +1,1 @@
+A [[Key Distribution]] Center is a secure and centralised system that distributes encryption keys to communicating parties. It acts as a trusted intermediary and generates session keys for symmetric encryption. The [Kerberos](https://web.mit.edu/kerberos/) protocol is a well-known example of a [[Key Distribution]] Center system, which can also be used for key exchange.

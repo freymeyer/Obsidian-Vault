@@ -1,0 +1,1 @@
+ A cryptoperiod is the span of time after which a key should be rotated. Sensitive keys with high usage might have shorter cryptoperiods due to increased exposure to potential compromise.

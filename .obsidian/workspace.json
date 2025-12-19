@@ -1,0 +1,1340 @@
+{
+  "main": {
+    "id": "1fc532cf86e69283",
+    "type": "split",
+    "children": [
+      {
+        "id": "94d4068d69ba0c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3150b1967dd0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insecure Direct Object Reference (IDOR).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insecure Direct Object Reference (IDOR)"
+            }
+          },
+          {
+            "id": "fdbb98017bb63a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insecure Direct Object Reference (IDOR).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insecure Direct Object Reference (IDOR)"
+            }
+          },
+          {
+            "id": "59a255535772d5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insecure Direct Object Reference (IDOR).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insecure Direct Object Reference (IDOR)"
+            }
+          },
+          {
+            "id": "b6bc5a8f6a2ffb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YAML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YAML"
+            }
+          },
+          {
+            "id": "41a541640b81bcf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "350734d1a0637296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "1369cee8a8bdf73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "e28befbb2d02c929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Information and Event Management system (SIEM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security Information and Event Management system (SIEM)"
+            }
+          },
+          {
+            "id": "959f25cf6e34d85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "589a536a27c493b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "e44bc90fbcb80fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "56975ba499fad372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "da289b067feb34a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "1e6fe81bffcf811c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "3c09f33c1f3510f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "5f7b1ca7387872df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Endpoint detection and response (EDR).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Endpoint detection and response (EDR)"
+            }
+          },
+          {
+            "id": "83c66681c0e344ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phishing"
+            }
+          },
+          {
+            "id": "01ce1328d9e1cf8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phishing"
+            }
+          },
+          {
+            "id": "ea28b227ea0f160b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Email"
+            }
+          },
+          {
+            "id": "66af3d3a1b460c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Email"
+            }
+          },
+          {
+            "id": "1a33ca2b2be5aff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtualisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtualisation"
+            }
+          },
+          {
+            "id": "54744f7349d7c1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtualisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtualisation"
+            }
+          },
+          {
+            "id": "ac8719f2a0a42188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypervisors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypervisors"
+            }
+          },
+          {
+            "id": "c3d9bab0bca34405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypervisors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypervisors"
+            }
+          },
+          {
+            "id": "13e359a682dc5b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypervisors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypervisors"
+            }
+          },
+          {
+            "id": "1321b7c0a5711997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malware Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Malware Analysis"
+            }
+          },
+          {
+            "id": "2f17007cc566c5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Static Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static Analysis"
+            }
+          },
+          {
+            "id": "013dde30fd0d01c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Analysis"
+            }
+          },
+          {
+            "id": "61d94a65bcbdb9da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Analysis"
+            }
+          },
+          {
+            "id": "20814c727cef165f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nmap"
+            }
+          },
+          {
+            "id": "8b0ad0547a181ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nmap"
+            }
+          },
+          {
+            "id": "c1fb87dfdaa85640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain Name System (DNS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Name System (DNS)"
+            }
+          },
+          {
+            "id": "de8c93bda1373077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nmap"
+            }
+          },
+          {
+            "id": "3339a8fb93f5e75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Intelligence"
+            }
+          },
+          {
+            "id": "9854df7749d4bbf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Intelligence"
+            }
+          },
+          {
+            "id": "71c47ba45bdd6fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hydra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hydra"
+            }
+          },
+          {
+            "id": "6d8daa2096d91e54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Password Cracking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Password Cracking"
+            }
+          },
+          {
+            "id": "00e2d389f1f2bd69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Password Cracking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Password Cracking"
+            }
+          },
+          {
+            "id": "3638354ebaeb522f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Password Cracking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Password Cracking"
+            }
+          },
+          {
+            "id": "235964770131fbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cross-Site Scripting (XSS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cross-Site Scripting (XSS)"
+            }
+          },
+          {
+            "id": "a4089fbb9fe68ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30Days-MyDFIR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30Days-MyDFIR"
+            }
+          },
+          {
+            "id": "862b92553780b012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-01 MyDFIR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-01 MyDFIR"
+            }
+          },
+          {
+            "id": "523e9ab26b293ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Teaming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Teaming"
+            }
+          },
+          {
+            "id": "92d038c5f817de26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phishing"
+            }
+          },
+          {
+            "id": "0424dc428d5b916b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phishing"
+            }
+          },
+          {
+            "id": "c530ac7da383c56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "2116518aa93e3132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "c3c7a75e6e47ccca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "2344b46b2333b8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "f8e955d7ba56c625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "b87f9976e844803c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "6ef36aa10d456c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "b4c91cec5906f473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Management Lifecycle (KML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management Lifecycle (KML)"
+            }
+          },
+          {
+            "id": "8f2a332c8dca8cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capital One breach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capital One breach"
+            }
+          },
+          {
+            "id": "73ae8fc9e7a9127e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-12 14.29.47.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "603830f39fb24bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "3439dd7689f1d85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "394eb449067499e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "d8982b8f9f6a04b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "116214cb30b186b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "7e77b676e3d09564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "013 🌐 Web Application Security MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "013 🌐 Web Application Security MOC"
+            }
+          },
+          {
+            "id": "08462bf4bf6520ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "013 🌐 Web Application Security MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "013 🌐 Web Application Security MOC"
+            }
+          },
+          {
+            "id": "769ff2f408bf7351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "1dde636a26f5872c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Home MOC"
+            }
+          },
+          {
+            "id": "89f8cbc3f3439359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Home MOC"
+            }
+          },
+          {
+            "id": "199ef0652a2edf1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 Infrastructure & Networking MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020 Infrastructure & Networking MOC"
+            }
+          },
+          {
+            "id": "102ed261e09d491e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 Infrastructure & Networking MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020 Infrastructure & Networking MOC"
+            }
+          },
+          {
+            "id": "456e82fe33707a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 Infrastructure & Networking MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020 Infrastructure & Networking MOC"
+            }
+          },
+          {
+            "id": "60754487e58e1eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Home MOC"
+            }
+          },
+          {
+            "id": "6662cd72fd4e68e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "022 Virtualization & Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "022 Virtualization & Cloud"
+            }
+          },
+          {
+            "id": "36e4f14368d69a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "023 Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "023 Systems"
+            }
+          },
+          {
+            "id": "0ba53a8c7738c3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Home MOC"
+            }
+          },
+          {
+            "id": "fbb5c8d62b33ae7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "9ef4daaf1aa33164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "1ba77658d4418a98",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "185610891b9cacba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Home MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Home MOC"
+            }
+          },
+          {
+            "id": "bc41ae8af05c01e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kill Chain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kill Chain"
+            }
+          },
+          {
+            "id": "183006bcd4ce4e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "d47412cb5e691820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 Cybersecurity MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010 Cybersecurity MOC"
+            }
+          },
+          {
+            "id": "16d3227c0ac10321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "013 🌐 Web Application Security MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "013 🌐 Web Application Security MOC"
+            }
+          },
+          {
+            "id": "51123f38b8a58abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentic AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentic AI"
+            }
+          }
+        ],
+        "currentTab": 76
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea78da8670f1f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d17d2604d05c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8915b6380fc5b1fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "766602904bf28126",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:interview/concepts",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bde15b1c4c4a8e42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "514c8ba276891286",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f817c6edda6a079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4b9e788826bbc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kill Chain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kill Chain"
+            }
+          },
+          {
+            "id": "9a6cd495b76feb3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Impersonation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Impersonation"
+            }
+          },
+          {
+            "id": "5a3d7bf92674d514",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5eaefb308c8b42fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kill Chain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kill Chain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 718.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "bc41ae8af05c01e4",
+  "lastOpenFiles": [
+    "MITRE ATT&CK.md",
+    "README.md",
+    "Red Teaming.md",
+    "012 ⚔️ Red Team & Offensive Security MOC.md",
+    "010 Cybersecurity MOC.md",
+    "019 🎤 Interview Prep MOC.md",
+    "011 🛡️ Blue Team & SOC Operations MOC.md",
+    "090 Cheatsheets MOC.md",
+    "Templates/THM Room.md",
+    "000 Home MOC.md",
+    "OWASP.md",
+    "Software Supply Chain Failures.md",
+    "Insecure Design.md",
+    "Cryptographic Failure.md",
+    "Security Misconfigurations.md",
+    "Injection.md",
+    "013 🌐 Web Application Security MOC.md",
+    "Broken Access Control.md",
+    "Software or Data Integrity Failures.md",
+    "Blue Teaming.md",
+    "Cross-site request forgery (CSRF).md",
+    "CIA Triad.md",
+    "Kill Chain.md",
+    "Incident Response.md",
+    "Vault Style Guide.md",
+    "Templates/Concept Template.md",
+    "Templates",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Tags/#cybersecurity+red-team+exploits-cve",
+    "Tags",
+    "attachments/Pasted image 20251216151136.png",
+    "attachments/d2f2cd7385ad25ba6c0d391d48bc7bf2.svg",
+    "attachments/Pasted image 20251213102542.png",
+    "attachments/Pasted image 20251213102409.png",
+    "Excalidraw",
+    "678ecc92c80aa206339f0f23-1743520297119.svg",
+    "attachments/Pasted image 20251208143910.png",
+    "attachments/Pasted image 20251208142214.png",
+    "attachments/Pasted image 20251208141307.png",
+    "attachments/Pasted image 20251208140936.png",
+    "attachments/Pasted image 20251208140710.png"
+  ]
+}

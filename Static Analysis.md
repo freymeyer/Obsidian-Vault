@@ -1,0 +1,18 @@
+---
+tags:
+  - "#cybersecurity/forensics/static-analysis"
+---
+The process of analyzing malware without executing it, but in a controlled environment
+
+Static analysis can be a quick and effective way to understand how the sample _may_ operate, as well as how it can be identified. Some of the information that can be gathered from static analysis has been included in the table below:
+
+| **Information** | **Explanation**                                                                                                                                                                                                                                                                                                                                               | **Example**                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Checksums       | These checksums are used within cyber security to track and catalogue files and executables. For example, you can Google the checksum to see if this has been identified before.                                                                                                                                                                              | `a93f7e8c4d21b19f2e12f09a5c33e48a`                                              |
+| Strings         | "Strings" are sequences of readable characters within an executable. This could be, for example, IP addresses, URLs, commands, or even passwords!                                                                                                                                                                                                             | `138.62.51.186`                                                                 |
+| Imports         | "Imports" are a list of libraries and functions that the application depends upon. For example, rather than building everything from scratch, applications will use operating system functions and libraries to interact with the OS.<br><br>These are useful, especially in Windows, as they allow you to see how the application interacts with the system. | `CreateFileW`<br><br>This library is used to create a file on a Windows system. |
+| Resources       | "Resources" contain data such as the icon that is displayed to the user. This is useful to examine, especially since malware might use a Word document icon to trick the user.  <br>  <br>Additionally, malware itself has been known to hide in this section!                                                                                                | N/A                                                                             |
+However, it's important to note that regardless of how a sample may appear or function, we don't truly know until it's executed. Attackers use techniques such as obfuscation to obscure how the sample appears, primarily to evade anti-viruses but also to evade a curious analyst.
+
+## Tools
+- [[PEStudio]]

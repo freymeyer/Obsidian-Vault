@@ -1,0 +1,1 @@
+Symmetric encryption algorithms rely on a single shared key for encryption and decryption. To distribute the key securely, the sender and receiver exchange it through secure means, such as in-person meetings or secure file transfers. 

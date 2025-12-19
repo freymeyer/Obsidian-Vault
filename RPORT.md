@@ -1,0 +1,1 @@
+“Remote port”, the port on the target system the vulnerable application is running on.

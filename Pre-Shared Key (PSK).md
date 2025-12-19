@@ -1,0 +1,1 @@
+Pre-shared keys are symmetric keys shared beforehand by communicating parties. They are frequently used in scenarios where a restricted number of parties require secure communication, such as in Virtual Private Networks (VPNs) or wireless networks.

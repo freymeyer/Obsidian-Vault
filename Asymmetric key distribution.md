@@ -1,0 +1,1 @@
+Asymmetric encryption involves public and private keys, which both the sender and receiver hold. The sender uses the receiver's public key to encrypt the data, and then the receiver decrypts it using their private key. Asymmetric keys can be securely distributed by implementing Public Key Infrastructure (PKI).

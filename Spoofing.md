@@ -1,0 +1,2 @@
+Email spoofing is another way attackers can trick users into thinking they are receiving emails from a legitimate domain.  
+The message looks like it came from a trusted sender (the display name and “From:” you see in the preview), but the underlying headers tell a different story. Modern email clients can easily reject spoofing attempts, but because Wareville email protection is down, some spoofing attempts can pass silently!
