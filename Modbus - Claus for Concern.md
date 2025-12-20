@@ -2,7 +2,7 @@
 tags:
   - "#ctf/thm/writeup"
   - "#learning/lab"
-status: In Progress
+status: Done
 difficulty: Medium
 link: https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4
 ---
@@ -13,9 +13,9 @@ link: https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4
 
 ## 🧠 Knowledge Inbox (Unfamiliar Things)
 *Quickly list things you don't know here. Define them LATER.*
-- [ ] [[Supervisory Control and Data Acquisition (SCADA)]]
-- [ ] [[Programmable Logic Controllers (PLCs)]]
-- [ ] [[Modbus]]
+- [x] [[Supervisory Control and Data Acquisition (SCADA)]]
+- [x] [[Programmable Logic Controllers (PLCs)]]
+- [x] [[Modbus]]
 
 ## 📝 Lab Journal
 *Chronological log of actions, commands, and findings.*
@@ -907,5 +907,6 @@ Congratulations! You've successfully investigated and remediated an industrial c
 
 
 ## 🎓 Key Takeaways
-- Learned how to use [[Tool Name]] for...
-- Understood the concept of [[Concept Name]]...
+- Learned how to use `pymodbus` to interact with Modbus TCP services.
+- Understood the concept of [[Supervisory Control and Data Acquisition (SCADA)]], [[Programmable Logic Controllers (PLCs)]], and [[Modbus]] protocol vulnerabilities.
+- Learned how to identify and remediate compromised Modbus registers and coils.
