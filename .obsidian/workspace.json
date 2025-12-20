@@ -1071,12 +1071,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kill Chain.md",
+                "file": "ICS/Modbus - Claus for Concern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kill Chain"
+              "title": "Modbus - Claus for Concern"
             }
           },
           {
@@ -1168,7 +1168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:interview/concepts",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1189,12 +1189,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "514c8ba276891286",
@@ -1210,7 +1210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kill Chain.md",
+                "file": "ICS/Modbus - Claus for Concern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1220,7 +1220,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kill Chain"
+              "title": "Backlinks for Modbus - Claus for Concern"
             }
           },
           {
@@ -1258,20 +1258,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kill Chain.md",
+                "file": "Untitled 5.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kill Chain"
+              "title": "Outline of Untitled 5"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 718.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1284,22 +1285,28 @@
       "command-palette:Open command palette": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "copilot:Open Copilot Chat": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "bc41ae8af05c01e4",
   "lastOpenFiles": [
+    "Untitled 6.base",
+    "ICS/Modbus - Claus for Concern.md",
+    "ICS",
+    "011 🛡️ Blue Team & SOC Operations MOC.md",
+    "010 Cybersecurity MOC.md",
+    "000 Home MOC.md",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Kill Chain.md",
     "MITRE ATT&CK.md",
     "README.md",
     "Red Teaming.md",
     "012 ⚔️ Red Team & Offensive Security MOC.md",
-    "010 Cybersecurity MOC.md",
     "019 🎤 Interview Prep MOC.md",
-    "011 🛡️ Blue Team & SOC Operations MOC.md",
     "090 Cheatsheets MOC.md",
     "Templates/THM Room.md",
-    "000 Home MOC.md",
     "OWASP.md",
     "Software Supply Chain Failures.md",
     "Insecure Design.md",
@@ -1312,24 +1319,16 @@
     "Blue Teaming.md",
     "Cross-site request forgery (CSRF).md",
     "CIA Triad.md",
-    "Kill Chain.md",
     "Incident Response.md",
-    "Vault Style Guide.md",
-    "Templates/Concept Template.md",
     "Templates",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Tags/#cybersecurity+red-team+exploits-cve",
-    "Tags",
     "attachments/Pasted image 20251216151136.png",
     "attachments/d2f2cd7385ad25ba6c0d391d48bc7bf2.svg",
     "attachments/Pasted image 20251213102542.png",
     "attachments/Pasted image 20251213102409.png",
-    "Excalidraw",
     "678ecc92c80aa206339f0f23-1743520297119.svg",
     "attachments/Pasted image 20251208143910.png",
     "attachments/Pasted image 20251208142214.png",
