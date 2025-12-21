@@ -2,12 +2,6 @@
 tags:
   - "#cybersecurity/blue-team"
 ---
-
----
-tags:
-  - "#cybersecurity/blue-team"
----
-
 # 🛡️ Blue Team & SOC Operations MOC
 
 ## 🧠 Core Concepts
