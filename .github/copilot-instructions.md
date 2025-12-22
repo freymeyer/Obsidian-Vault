@@ -11,14 +11,17 @@ This workspace is an Obsidian Vault focused on Cybersecurity, Infrastructure, an
   - Individual notes (e.g., `Docker.md`) should be linked from their respective MOCs.
 
 ## File Conventions
-- **Frontmatter**: All notes must start with YAML frontmatter containing hierarchical tags.
+- **Frontmatter**: All notes must start with YAML frontmatter containing hierarchical tags with `#` prefix.
   ```yaml
   ---
   tags:
-    - infrastructure/containers
-    - cybersecurity/blue-team
+    - "#cybersecurity/blue-team/soc"
+    - "#interview/concepts"
+  aliases:
+    - Short Name
   ---
   ```
+- **Tag Hierarchy**: Use `/` for nesting (e.g., `#cybersecurity/web-security/xss`, `#infrastructure/containers`).
 - **Naming**: Keep filenames concise and descriptive. MOCs follow the pattern `### 🏷️ Name MOC`.
 - **Content**: Focus on technical accuracy, clear definitions, and practical examples (commands, code snippets).
 
@@ -26,12 +29,33 @@ This workspace is an Obsidian Vault focused on Cybersecurity, Infrastructure, an
 - When adding a new note, ensure it is linked from the most relevant MOC to maintain the graph structure.
 - Use standard Markdown for formatting (headers, lists, code blocks).
 - Avoid creating folders unless necessary; prefer a flat structure organized by MOCs and links.
+- **Always check for existing notes** before creating new ones—link to them via `[[Wikilinks]]` instead of duplicating content.
 
-## Workflow: Writeup Parsing & Concept Extraction
-- **Trigger**: When a file is tagged with `#ctf/thm/writeup` or `#learning/lab` (e.g., THM rooms).
-- **Task**: Parse the writeup to extract core concepts (often found in "Knowledge Inbox").
-- **Output Format**: Create new concept notes based on `Templates/Concept Template.md`.
-  - **Reference**: Use `Authorization.md` as the gold standard example of a populated concept note.
-- **Content Strategy**:
-  - Use the writeup's content to populate the concept note's sections (Definition, How It Works, Detection).
-  - Ensure the new note is atomic and reusable, not just a copy of the writeup text.
+## Workflow: Concept Extraction from THM Rooms & Writeups
+
+### When to Trigger
+- Files tagged with `#ctf/thm/writeup`, `#ctf/htb/writeup`, or `#learning/lab`
+- User explicitly requests concept extraction from a writeup or room notes
+
+### Process
+1. **Scan for Unfamiliar Concepts**: Look for terms, techniques, or tools mentioned in the writeup that don't have existing notes.
+2. **Check Existing Notes**: Search the vault for existing `[[Wikilinks]]`—if a concept already exists, link to it rather than creating a duplicate.
+3. **Extract & Create**: For each new concept:
+   - Create a new note using `Templates/Concept Template.md` as the structure.
+   - Use `Authorization.md` as the **gold standard** for tone, depth, and formatting.
+   - Populate sections based on context from the writeup + external knowledge.
+
+### Concept Note Requirements
+- **One-liner**: A single sentence explaining the concept.
+- **What Is It?**: Clear definition with context.
+- **How It Works**: Technical explanation, diagrams, or code if applicable.
+- **Detection & Prevention**: Blue team perspective—how to detect or mitigate.
+- **Interview Angles**: Common questions and a STAR story if applicable.
+- **Related Concepts**: `[[Wikilinks]]` to connected notes in the vault.
+
+### Quality Checklist
+- [ ] Frontmatter has proper `#`-prefixed hierarchical tags
+- [ ] Note is **atomic**—one concept per note, not a copy of writeup text
+- [ ] All mentioned concepts are linked via `[[Wikilinks]]`
+- [ ] Note is linked from the appropriate MOC (e.g., `011 🛡️ Blue Team & SOC Operations MOC.md`)
+- [ ] Code snippets and commands are in fenced code blocks with language hints
