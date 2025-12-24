@@ -31,8 +31,20 @@ tags:
         - [[Logstash]] - Data processing pipeline.
         - [[Kibana]] - Visualization dashboard.
     - [[Sysmon]] - Advanced Windows system monitoring.
+    - [[Zeek]] - Network security monitoring and log generation.
+    - [[RITA]] - C2 detection via network traffic analysis.
 - **Issues:**
     - [[Logging & Alerting Failures]] - Common gaps in visibility.
+
+## 🎯 Threat Hunting
+*Proactively searching for threats.*
+- [[DNS Tunneling]] - Covert C2/exfiltration via DNS queries.
+- [[Command and Control (C2)]] - Attacker infrastructure detection.
+- [[Domain Generation Algorithm (DGA)]] - Dynamic domain generation for C2.
+- [[Fast Flux]] - IP rotation techniques for evasion.
+- [[Lateral Movement]] - Post-exploitation network propagation.
+- [[Honeypot]] - Decoy systems for detection.
+- **Labs:** [[C2 Detection - Command & Carol]]
 
 ## 🚨 Incident Response
 *Handling the alerts.*
@@ -40,3 +52,15 @@ tags:
 - [[Alert Triage]] - The process of investigating and prioritizing alerts.
 - [[Alert Reporting]] - Documenting findings.
 - [[False Positive]] - Benign activity triggering an alert.
+## 🛡️ Defense & Prevention
+*Security controls and countermeasures.*
+- [[Intrusion Prevention System (IPS)]] - Inline threat blocking.
+- [[Endpoint detection and response (EDR)]] - Endpoint monitoring and response.
+- [[Web Application Firewalls (WAFS)]] - Web attack prevention.
+- [[Data Loss Prevention (DLP)]] - Exfiltration prevention.
+- [[Multi-Factor Authentication (MFA)]] - Authentication hardening.
+
+## 📚 Frameworks
+- [[Cyber Kill Chain]] - Lockheed Martin's 7-stage attack model.
+- [[MITRE ATT&CK]] - Adversary tactics and techniques.
+- [[Pyramid of Pain]] - Indicator effectiveness hierarchy.
