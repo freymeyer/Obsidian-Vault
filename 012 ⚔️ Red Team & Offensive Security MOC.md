@@ -4,7 +4,8 @@ tags:
 ---
 
 - **Methodology:** [[Red Teaming]], [[Cyber Kill Chain]], [[Unified Kill Change]], [[Pyramid of Pain]], [[MITRE ATT&CK]]
-- **Reconnaissance:** [[Reconnaissance (Cyber Security)]], [[Open Source Intelligence (OSINT)]], [[Google Dorking]], [[Social Engineering]]
+- **Reconnaissance:** [[Passive Reconnaissance]], [[Active Reconnaissance]], [[Open Source Intelligence (OSINT)]], [[Google Dorking]], [[Social Engineering]]
+- **Recon Tools:** [[WHOIS]], [[nslookup]], [[Domain Information Groper (dig)]], [[DNSDumpster]], [[Shodan]], [[Ping]], [[Traceroute]], [[Telnet]], [[Netcat (nc)]], [[Banner Grabbing]]
 - **Weaponization & Delivery:** [[Exploit Kit]], [[Phishing]], [[Malvertising]], [[Smishing]], [[Payload]]
 - **Exploitation:** [[Exploit]], [[Zero-Day Exploit]], [[EternalBlue]], [[CVE-2017-0144]], [[WannaCry]], [[ALPHAV]], [[Moniker Link (CVE-2024-21413)]], [[Shadow Brokers]]
 - **Post-Exploitation:** [[Persistence (Cyber Security)]], [[Lateral Movement]], [[Web Shell]], [[Living off the Land (LOLBAS)]], [[Privilege Escalation]]

@@ -39,7 +39,7 @@ This workspace is an Obsidian Vault focused on Cybersecurity, Infrastructure, an
 
 ### Process
 1. **Scan for Unfamiliar Concepts**: Look for terms, techniques, or tools mentioned in the writeup that don't have existing notes.
-2. **Check Existing Notes**: Search the vault for existing `[[Wikilinks]]`—if a concept already exists, link to it rather than creating a duplicate.
+2. **Check Existing Notes**: Search the vault for existing `[[Wikilinks]]`—if a concept already exists, link to it rather than creating a duplicate. Check if the notes found in the room have that information already to the existing notes. 
 3. **Extract & Create**: For each new concept:
    - Create a new note using `Templates/Concept Template.md` as the structure.
    - Use `Authorization.md` as the **gold standard** for tone, depth, and formatting.

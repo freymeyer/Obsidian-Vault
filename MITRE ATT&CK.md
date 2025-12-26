@@ -36,22 +36,22 @@ TACTICS (The "Why" - Adversary Goals)
 
 ## 🎯 14 Tactics (Enterprise)
 
-| ID | Tactic | Goal |
-|----|--------|------|
-| TA0043 | Reconnaissance | Gather victim info |
-| TA0042 | Resource Development | Acquire infrastructure |
-| TA0001 | Initial Access | Get into the network |
-| TA0002 | Execution | Run malicious code |
-| TA0003 | Persistence | Maintain foothold |
-| TA0004 | Privilege Escalation | Gain higher permissions |
-| TA0005 | Defense Evasion | Avoid detection |
-| TA0006 | Credential Access | Steal credentials |
-| TA0007 | Discovery | Learn the environment |
-| TA0008 | Lateral Movement | Move through network |
-| TA0009 | Collection | Gather target data |
-| TA0011 | Command and Control | Communicate with implants |
-| TA0010 | Exfiltration | Steal data |
-| TA0040 | Impact | Disrupt operations |
+| ID     | Tactic               | Goal                      |
+| ------ | -------------------- | ------------------------- |
+| TA0043 | Reconnaissance       | Gather victim info        |
+| TA0042 | Resource Development | Acquire infrastructure    |
+| TA0001 | Initial Access       | Get into the network      |
+| TA0002 | Execution            | Run malicious code        |
+| TA0003 | Persistence          | Maintain foothold         |
+| TA0004 | Privilege Escalation | Gain higher permissions   |
+| TA0005 | Defense Evasion      | Avoid detection           |
+| TA0006 | Credential Access    | Steal credentials         |
+| TA0007 | Discovery            | Learn the environment     |
+| TA0008 | Lateral Movement     | Move through network      |
+| TA0009 | Collection           | Gather target data        |
+| TA0011 | Command and Control  | Communicate with implants |
+| TA0010 | Exfiltration         | Steal data                |
+| TA0040 | Impact               | Disrupt operations        |
 
 ## 🔬 Technique Example
 
