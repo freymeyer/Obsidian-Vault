@@ -20,6 +20,10 @@ tags:
     - [[Threat-based detection]] - Detecting TTPs (Tactics, Techniques, Procedures).
     - [[Environment-based detection]] - Detecting anomalies in the specific environment.
     - [[Threat Behavior detections]] - Behavioral analysis.
+- **Tools:**
+    - [[Sigma]] - Universal detection rule format.
+    - [[Uncoder.io]] - Detection rule translation platform.
+    - [[ElastAlert]] - Elasticsearch alerting framework.
 
 ## 🪵 Logging & SIEM
 *Collecting and analyzing data.*
@@ -41,6 +45,7 @@ tags:
 
 ## 🎯 Threat Hunting
 *Proactively searching for threats.*
+- [[Threat Intelligence Feeds]] - IOC feeds for proactive threat detection.
 - [[DNS Tunneling]] - Covert C2/exfiltration via DNS queries.
 - [[Command and Control (C2)]] - Attacker infrastructure detection.
 - [[Domain Generation Algorithm (DGA)]] - Dynamic domain generation for C2.
@@ -68,6 +73,9 @@ tags:
 - [[Web Application Firewalls (WAFS)]] - Web attack prevention.
 - [[Data Loss Prevention (DLP)]] - Exfiltration prevention.
 - [[Multi-Factor Authentication (MFA)]] - Authentication hardening.
+- [[DNS Sinkhole]] - Domain blocking via DNS redirection.
+- [[Email Gateway]] - Email filtering and malicious content blocking.
+- [[Firewall]] - Network traffic filtering and access control.
 - [[Software Restriction Policies]] - Windows application execution control.
 - [[Interactive logon - Display user info when locked]] - Security option for hiding user identity on lock screen.
 
