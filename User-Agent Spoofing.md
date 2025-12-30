@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/web-security/techniques"
   - "#cybersecurity/red-team/evasion"

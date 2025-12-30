@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Social engineering in phishing is the art of manipulating people rather than breaking technology. Attackers craft believable stories, emails, calls, or chat messages that exploit emotions (fear, helpfulness, curiosity, urgency) and real-world context to lure the recipients of a message.
 
 Now, read the content of the previous email you had opened. We can spot multiple social engineering techniques:

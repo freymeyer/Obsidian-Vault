@@ -27,10 +27,10 @@ link:
 
 
 ## 🚩 Flags
-| Task | Question  | Flag |
-| ---- | --------- | ---- |
-| 1    | User Flag |      |
-| 2    | Root Flag |      |
+| Task | Question  | Flag               |
+| ---- | --------- | ------------------ |
+| 1    | User Flag | `No answer needed` |
+| 2    | Root Flag |                    |
 
 ## 🎓 Key Takeaways
 - Learned how to use [[Tool Name]] for...

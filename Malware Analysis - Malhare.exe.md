@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#ctf/thm/writeup"
   - "#learning/lab"

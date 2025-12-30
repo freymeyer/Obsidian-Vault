@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/web-sec/injection"
   - "#cybersecurity/web-sec/owasp"

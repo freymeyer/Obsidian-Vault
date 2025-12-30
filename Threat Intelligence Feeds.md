@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/threat-intel"
   - "#cybersecurity/blue-team/soc"

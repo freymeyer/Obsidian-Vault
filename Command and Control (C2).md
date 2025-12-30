@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/red-team/c2"
   - "#interview/concepts"

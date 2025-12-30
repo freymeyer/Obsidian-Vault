@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#tools/threat-hunting"
   - "#cybersecurity/blue-team/detection-engineering"

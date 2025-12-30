@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/web-sec/server-side"
   - "#cybersecurity/web-sec/owasp"

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#networking/tools"
   - "#cybersecurity/red-team/recon"

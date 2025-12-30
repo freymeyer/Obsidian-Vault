@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/malware/lolbas"
   - "#cybersecurity/blue-team/detection"

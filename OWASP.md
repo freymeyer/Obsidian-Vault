@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/web-sec/owasp"
   - "#interview/concepts"

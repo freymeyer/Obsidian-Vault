@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Large language models are the basis of many current AI systems. They are trained on massive collections of text and code, which allows them to produce human-like answers, summaries, and even generate programs or stories.
 
 LLMs have restrictions that prevent them from going beyond their built-in abilities, which limits them. They cannot act outside their text box, and their training only lasts up to a certain point in time. Because of this, they may invent facts, miss recent events, or fail at tasks that require real-world actions.

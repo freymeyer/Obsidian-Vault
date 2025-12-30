@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/vuln/auth-bypass"
   - "#cybersecurity/web-sec/owasp"

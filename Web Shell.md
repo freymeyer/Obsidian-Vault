@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/malware"
   - "#cybersecurity/red-team/post-exploitation"

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/web-sec/access-control"
   - "#cybersecurity/red-team/post-exploitation"

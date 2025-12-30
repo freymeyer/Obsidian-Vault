@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/attacks/c2"
   - "#cybersecurity/malware"

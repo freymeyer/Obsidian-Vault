@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 The chain-of-thought (CoT) handles the execution of complex reasoning tasks through intermediate reasoning steps.

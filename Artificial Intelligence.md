@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Artificial Intelligence is technology that enables computers and machines to simulate human behaviour, like learning and reasoning.
 
 A field of computer science focused on creating systems that can perform tasks that usually need human thinking, such as learning, reasoning, and problem-solving.

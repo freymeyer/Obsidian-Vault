@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - **Projects:** [[30Days-MyDFIR]], [[Day-01 MyDFIR]]
 - **TryHackMe Writeups:** [[OhSINT]], [[THM - Intro to Detection Engineering]], [[THM - Malware Introductory]], [[THM - Splunk Basics - Did you SIEM]], [[Modbus - Claus for Concern]]
 - **Personal:** [[My Garden]]

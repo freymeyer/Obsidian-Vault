@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#infrastructure/windows/logging"
 aliases:

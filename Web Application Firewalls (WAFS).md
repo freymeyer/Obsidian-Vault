@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **Web Application Firewalls (WAFs)** are often the first line of defense for websites and web applications. 
 
 WAFs act as gatekeepers for your web applications, inspecting full request packets, similar to Wireshark but with the ability to decrypt TLS traffic and filter it before it reaches the server.

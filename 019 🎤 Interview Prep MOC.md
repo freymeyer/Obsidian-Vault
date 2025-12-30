@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#interview"
   - "#learning"
@@ -16,6 +17,7 @@ tags:
 ### Identity & Access
 - [[Authentication]] — Proving who you are (username + password)
 - [[Authorization]] — What you're allowed to do after authentication
+- [[NTLM]] — Windows legacy authentication protocol (MD4 hash)
 - [[Identification, Authentication, Authorization, and Accountability (IAAA)]]
 
 ### Security Fundamentals
@@ -27,7 +29,13 @@ tags:
 ### Attack & Defense
 - [[Blue Teaming]] — Defensive security operations
 - [[Red Teaming]] — Offensive security/adversary simulation
-- [[Purple Team]] — Collaboration between red and blue
+- [[Purple Teaming]] — Collaboration between red and blue for detection improvement
+
+### Security Governance & Architecture
+- [[Asset Inventory]] — Comprehensive catalog of organizational digital assets
+- [[Secure by Design]] — Building security into systems from the start
+- [[Governance, Risk and Compliance (GRC)]] — Managing security through policies, risk, and regulations
+- [[Tabletop Exercise]] — Discussion-based IR readiness validation
 
 ---
 

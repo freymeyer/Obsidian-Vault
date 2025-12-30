@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/blue-team"
 ---
@@ -9,6 +10,7 @@ tags:
 - [[Security Operations Center (SOC)]] - The centralized unit for security monitoring.
 - [[SOC analysts]] - Roles and responsibilities (Tier 1, 2, 3).
 - [[DevSecOps]] - Integrating security into the DevOps pipeline.
+- [[Asset Inventory]] - Comprehensive catalog of organizational assets for security management.
 
 ## 🔎 Detection Engineering
 *Building the logic to catch threats.*
@@ -66,6 +68,21 @@ tags:
 - [[Jump Bag]] - Pre-packed IR tools and supplies for rapid response.
 - [[TheHive Project]] - Open-source case management platform for SOC/CSIRT.
 - [[Atomic Red Team]] - Testing library for validating detections against MITRE ATT&CK TTPs.
+- [[Tabletop Exercise]] - Discussion-based IR readiness testing.
+
+## 🔄 Testing & Validation
+*Improving detection capabilities.*
+- [[Purple Teaming]] - Collaborative red/blue testing to improve detections.
+- [[Atomic Red Team]] - Automated TTP testing framework.
+- [[Tabletop Exercise]] - IR plan validation through scenarios.
+
+### 🔍 Linux Forensics
+- [[File Timestamps (mtime, ctime, atime)]] - Timeline analysis for incident reconstruction.
+- [[/etc/passwd and /etc/shadow]] - User account forensics and backdoor detection.
+- [[/etc/sudoers]] - Privilege escalation configuration analysis.
+- [[SSH authorized_keys]] - SSH key persistence mechanism detection.
+- [[debsums]] - Package integrity verification for tampered files.
+- [[strings]] - Binary analysis for extracting IOCs.
 ## 🛡️ Defense & Prevention
 *Security controls and countermeasures.*
 - [[Intrusion Prevention System (IPS)]] - Inline threat blocking.

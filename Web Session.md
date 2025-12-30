@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/web-security/fundamentals"
   - "#interview/concepts"

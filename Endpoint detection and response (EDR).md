@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Endpoint Detection and Response (EDR) is a security solution that offers deep-level protection for endpoints. No matter where the endpoints are, the EDR will make sure they are monitored constantly and threats are detected.
 
 Below are some of the EDR solutions in the market:

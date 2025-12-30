@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#infrastructure/windows/audit-policy"
 aliases:

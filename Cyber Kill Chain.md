@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/frameworks"
   - "#cybersecurity/blue-team/detection"

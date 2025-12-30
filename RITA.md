@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#tools/blue-team/network-analysis"
   - "#cybersecurity/blue-team/threat-hunting"

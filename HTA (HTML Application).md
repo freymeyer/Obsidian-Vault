@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/malware/file-types"
   - "#cybersecurity/red-team/initial-access"

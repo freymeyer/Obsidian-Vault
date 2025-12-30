@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/vuln/crypto-failure"
   - "#cybersecurity/web-sec/owasp"

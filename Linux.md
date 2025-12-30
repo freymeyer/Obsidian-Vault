@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - os/linux
   - "#systems/internals"

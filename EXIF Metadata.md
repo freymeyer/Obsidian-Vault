@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/forensics/metadata"
   - "#cybersecurity/osint"

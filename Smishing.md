@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/attacks/social-engineering"
   - "#cybersecurity/attacks/phishing"

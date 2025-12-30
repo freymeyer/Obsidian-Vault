@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/vulnerabilities"
   - "#cybersecurity/cryptography"

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 All that was mentioned is possible due to the fact that agentic AI uses  chain-of-thought (CoT) reasoning to improve its ability to perform complex, multi-step tasks autonomously. CoT is a prompt-engineering method designed to improve the reasoning capabilities of [[Large Language Models (LLMS)]], especially for tasks that require complex, multi-step thinking. 
 
 [[Chain-of-thought (CoT)]] prompting demonstrated that large language models can generate explicit reasoning traces to solve tasks requiring arithmetic, logic, and common-sense reasoning. However, CoT has a critical limitation: because it operates in isolation, without access to external knowledge or tools, it often suffers from fact hallucination, outdated knowledge, and error propagation.

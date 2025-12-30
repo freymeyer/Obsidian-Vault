@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/blue-team/prevention"
   - "#cybersecurity/networking/dns"

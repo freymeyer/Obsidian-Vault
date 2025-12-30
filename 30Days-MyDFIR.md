@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#project/mydfir-lab"
 ---

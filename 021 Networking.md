@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 [[Autonomous System Number (ASN)]], [[Domain Name System (DNS)]], [[File Transfer Protocol (FTP)]], [[Secure Shell (SSH)]], [[Server Message Block (SMB)]], [[Simple Mail Transfer Protocol (SMTP)]], [[User Datagram Protocol (UDP)]], [[Nmap]], [[Netcat (nc)]], [[Modbus]], [[ICMP]], [[TTL (Time To Live)]], [[Ping]], [[Traceroute]], [[Telnet]], [[SSID vs BSSID]], [[WiGLE]]

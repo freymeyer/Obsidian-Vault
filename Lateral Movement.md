@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - "#cybersecurity/attacks/post-exploitation"
   - "#cybersecurity/blue-team/detection"
